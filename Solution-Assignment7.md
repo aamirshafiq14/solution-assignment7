@@ -37,7 +37,7 @@ numbers_sum = sum(numbers)
 print(f"\nGreat! The sum of your favorite numbers is {numbers_sum}.\n")
 ```
 
-## Checking If numbers are Prime or not
+## Checking If the Sum is Prime or not
 
 ```python
 from sympy import isprime
@@ -46,4 +46,10 @@ print(f'The {numbers_sum} is a prime number.')
 else:
 print(f'The number {numbers_sum} is not a prime number.')
 
+```
+
+## Output of Number Exploration Tool
+
+```python
+![Output of Number Exploration Tool](./Output%20of%20No.%20Exploration%20Tool.png)
 ```
